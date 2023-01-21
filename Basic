@@ -1,0 +1,5 @@
+# create a variable
+name = 'Parth'
+
+# print the value
+print(name)
